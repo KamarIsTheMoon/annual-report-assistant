@@ -1,0 +1,7 @@
+company,year,question,expected_page
+Mutandis,2025,Quel est le chiffre d'affaires 2025 ?,1
+Mutandis,2025,What is the EBITDA in 2025?,2
+Mutandis,2025,Quelle est la dette nette bancaire ?,3
+Mutandis,2025,What dividend per share is proposed?,3
+Mutandis,2025,Quel est le résultat net part du groupe ?,2
+Mutandis,2025,How much revenue did Season USA make?,1
